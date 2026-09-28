@@ -1,0 +1,23 @@
+# Unity generated files
+/MHcockpit/[Ll]ibrary/
+/MHcockpit/[Tt]emp/
+/MHcockpit/[Oo]bj/
+/MHcockpit/[Bb]uild/
+/MHcockpit/[Bb]uilds/
+/MHcockpit/[Ll]ogs/
+/MHcockpit/[Uu]ser[Ss]ettings/
+
+# IDE generated files
+/MHcockpit/.vs/
+/MHcockpit/*.csproj
+/MHcockpit/*.sln
+/MHcockpit/*.slnx
+/MHcockpit/*.user
+/MHcockpit/*.userprefs
+/MHcockpit/*.pidb
+/MHcockpit/*.booproj
+/MHcockpit/*.svd
+/MHcockpit/*.pdb
+/MHcockpit/*.opendb
+/MHcockpit/*.VC.db
+/MHcockpit/.vsconfig
